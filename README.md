@@ -2,6 +2,8 @@
 
 A beginner-friendly Python project that manages student records and marks.
 This project was built as part of my journey as a BSc IT student to strengthen my Python fundamentals and prepare for real-world software development.
+📓 This project was developed using Jupyter Notebook and Python.
+
 
 ---
 
